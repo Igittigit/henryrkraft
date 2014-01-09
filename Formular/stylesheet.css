@@ -1,0 +1,61 @@
+body {
+	background-color:#00688B;
+	font-family: sans-serif;
+}
+
+div {
+	margin: 10px auto;
+	border: 1px solid black;
+	padding: 10px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	background-color: #FFD700;
+	width: 500px;
+	box-shadow: rgba(0,0,0,0.2) 5px 5px;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 20px;
+	text-align: center;
+}
+
+legend {
+	decoration: none;
+}
+
+label {
+	font-size: 10px;
+}
+
+input {
+	margin: 5px;
+}
+
+#link {
+	text-align: center;
+}	
+
+#wikilogo {
+	text-align: center;
+}
+
+#suchformular {
+	height: auto;
+	text-align: justify;
+}
+
+#validierung {
+	text-align: center;
+}
+
+#wcag2 {
+	box-shadow: rgba(0,0,0,0.2) 5px 5px;
+}
